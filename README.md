@@ -63,9 +63,4 @@ Para usar el chatbot se necesita de un usuario de WhatsApp y un inicio de sesion
 
 Iniciamos session con nuestro dispositivo con ese QR. Inmediatamente observaremos que se apertura una session en un ordenador (Mac OS) , esto es una caracteristica de ```whatsapp-web.js```
 
-<div style="text-align: center;">
-  <br>
-  <img src="image/inicio_de_session_2_0.jpeg">
-  <br/>
-  <br><br/>
-</div>
+<center><img src="image/inicio_de_session_2_0.jpeg"></center>
