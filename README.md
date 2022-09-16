@@ -15,12 +15,9 @@
 
 WhatsAppComputerVision es un proyecto chatbot de WhatsApp que tiene como opciones de tecnicas de procesamiento de imagenes y vision artificial. Se desarrollo con el lenguaje javascript usando la libreria [whatsapp-web.js](https://wwebjs.dev/guide/) desarrollada por [Pedro S. Lopez](https://github.com/pedroslopez)
 
-<div style="text-align: center;">
-  <br>
-  <img src="image/presentacion.gif">
-  <br/>
-  <br><br/>
-</div>
+<br>
+<p align="center"><img src="image/presentacion.gif"></p>
+<br/>
 
 ***
 ## 2. Instalacion
@@ -41,12 +38,9 @@ Una vez tengamos listo lo anterior, instalamos el proyecto. Abrimos el GitBash (
 *  ```npm install ```
 *  ```code . ```
 
-<div style="text-align: center;">
-  <br>
-  <img src="image/instalacion_1.gif">
-  <br/>
-  <br><br/>
-</div>
+<br>
+<p align="center"><img src="image/instalacion_1.gif"></p>
+<br/>
 
 ***
 
@@ -54,17 +48,12 @@ Una vez tengamos listo lo anterior, instalamos el proyecto. Abrimos el GitBash (
 
 Para usar el chatbot se necesita de un usuario de WhatsApp y un inicio de sesion. Una vez estemos en el Visual Studio Code abrimos el terminal gitbash y aplicamos el comando  ```node app.js```
 
-<div style="text-align: center;">
-  <br>
-  <img src="image/inicio_de_session_1.png">
-  <br/>
-  <br><br/>
-</div>
+<br>
+<p align="center"><img src="image/inicio_de_session_1.png"></p>
+<br/>
 
 Iniciamos session con nuestro dispositivo con ese QR. Inmediatamente observaremos que se apertura una session en un ordenador (Mac OS) , esto es una caracteristica de ```whatsapp-web.js```
 
-<center><img src="image/inicio_de_session_2_0.jpeg"></center>
-
-
+<br>
 <p align="center"><img src="image/inicio_de_session_2_0.jpeg"></p>
-
+<br/>
