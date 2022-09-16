@@ -40,3 +40,10 @@ Una vez los tengas instalador podemos instalar el proyeto.
 * Aplicar el comando : git clone https://github.com/edwinml148/WhatsAppComputerVision
 * Aplicar el comando : .code
 * Aplicar el comando : npm install
+
+<div style="text-align: center;">
+  <br>
+  <img src="image/instalacion.gif">
+  <br/>
+  <br><br/>
+</div>
