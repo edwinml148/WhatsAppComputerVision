@@ -65,7 +65,7 @@ Iniciamos session con nuestro dispositivo con ese QR. Inmediatamente observaremo
 
 <div style="text-align: center;">
   <br>
-  <img src="image/inicio_de_session_2.jpeg">
+  <img src="image/inicio_de_session_2_0.jpeg">
   <br/>
   <br><br/>
 </div>
