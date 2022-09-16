@@ -47,3 +47,7 @@ Una vez los tengas instalador podemos instalar el proyeto.
   <br/>
   <br><br/>
 </div>
+
+
+
+![image](image/instalacion.gif)
