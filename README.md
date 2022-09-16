@@ -18,7 +18,7 @@ WhatsAppComputerVision es un proyecto chatbot de WhatsApp que tiene como opcione
 
 <div style="text-align: center;">
   <br><br/>
-  <img src="multimedia/presentacion.gif">
+  <img src="image/presentacion.gif">
   <br><br/>
 </div>
 
