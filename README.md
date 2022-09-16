@@ -92,7 +92,7 @@ La operacion Face Detection usa un clasificador pre-entrenado HaarCascade y el a
 
 ## 5. Deploy
 
-Bien nuestro Chatbot ya esta funcionando en local , pero no queremos depender de una computadora para que este funcione y mas importante aun queremos que este activo 24/7. Para lograrlo debemos deployar nuestro proyecto. Para eso tenemos opciones como AWS , Azure , Heroku , Render entre otras. Para el desarrollo de este proyecto usaremos **Heroku** por su facilidad en el deploy y su explicacion.
+Bien nuestro Chatbot ya esta funcionando en local , pero no queremos depender de una computadora para que este funcione y mas importante aun, queremos que esté activo 24/7. Para lograrlo debemos deployar nuestro proyecto. Para eso tenemos opciones como AWS , Azure , Heroku , Render entre otras. Para el desarrollo de este proyecto usaremos **Heroku** por su facilidad en el deploy y su explicacion.
 
 Para comenzar necesitas crearte un cuenta en [Heroku](https://www.heroku.com/).Por fines didacticos usaremos los comandos CLI. Para que la session se mantenga activa debemos tener primero el archivo ```.wwebjs_auth``` es decir debimos haber escaneado el QR antes del deploy. 
 
