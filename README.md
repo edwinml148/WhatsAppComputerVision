@@ -33,21 +33,19 @@ Para la instalacion de WhatsAppComputerVision se requiere de :
 * npm (v6.14.10)
 * git
 
-Una vez los tengas instalador podemos instalar el proyeto.
+Una vez tengamos listo lo anterior, instalamos el proyecto. Abrimos el GitBash (click derecho sobre el escritorio) y aplicamos los siguientes comandos.
 
-* Crear una carpeta
-* Abrir el terminal de gitbash en la carpeta creada
-* Aplicar el comando : git clone https://github.com/edwinml148/WhatsAppComputerVision
-* Aplicar el comando : .code
-* Aplicar el comando : npm install
+*  ```mkdir ./ejemplo ```
+*  ```cd ./ejemplo ```
+*  ```git clone https://github.com/edwinml148/WhatsAppComputerVision ```
+*  ```cd ./WhatsAppComputerVision ```
+*  ```npm install ```
+*  ```code . ```
 
 <div style="text-align: center;">
   <br>
-  <img src="image/instalacion.gif">
+  <img src="image/instalacion_1.gif">
   <br/>
   <br><br/>
 </div>
 
-
-
-![image](image/instalacion.gif)
