@@ -15,7 +15,7 @@
 WhatsAppComputerVision es un proyecto chatbot de WhatsApp que tiene como opciones de tecnicas de procesamiento de imagenes y vision artificial. Se desarrollo con el lenguaje javascript usando la libreria [whatsapp-web.js](https://wwebjs.dev/guide/) desarrollada por [Pedro S. Lopez](https://github.com/pedroslopez)
 
 <br>
-<p align="center"><img src="image/presentacion.mp4"></p>
+<p align="center"><img src="image/presentacion.gif"></p>
 <br/>
 
 ***
